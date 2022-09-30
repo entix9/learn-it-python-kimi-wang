@@ -1,0 +1,23 @@
+{
+  "name": "learn-it-python-kimi-wang",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon --exec python3 index.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/entix9/learn-it-python-kimi-wang.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/entix9/learn-it-python-kimi-wang/issues"
+  },
+  "homepage": "https://github.com/entix9/learn-it-python-kimi-wang#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
